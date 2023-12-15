@@ -4,7 +4,7 @@
 ## Summary
 I’m a **technology professional** based in Chicago, Illinois with **25+ years of experience**. For the last 6 years my focus area has been Kubernetes and the cloud-native ecosystem with an emphasis on cloud-native security and networking. I am passionate about working with and learning from customers, creating solutions to complex problems, and mentoring.
 
-## Skills
+## Skills 
 
 Cloud Computing | Cloud Native | Container Orchestration (Kubernetes) | Observability | Container Networking and Security | GitOps | Python | Golang
 
