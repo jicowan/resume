@@ -66,14 +66,14 @@ As the first Solution Architect hired in Illinois, I was responsible for coverin
 
 ## Additional Experience
 
-* ***Senior Systems Engineer, vCloud Air** | VMware | June 2013 - March 2015*
-* ***Cloud Evangelist** | Microsoft | June 2012 - June 2013*
-* ***Office 365 Technical Specialist** | Microsoft | November 2010 - June 2012*
-* ***Account Technology Strategist** | Microsoft | March 2004 - December 2010*
-* ***Account Manager, Telco and M&E Vertical** | Microsoft | July 2008 - June 2009*
-* ***Exchange Technology Sales Professional** | Microsoft | March 2003 - February 2004*
-* ***Senior Consultant** | Microsoft | March 2000 - February 2003*
-* ***Consultant and Technical Project Manager** | IBM | October 1996 - March 2000*
+* **Senior Systems Engineer, vCloud Air** | VMware | June 2013 - March 2015
+* **Cloud Evangelist** | Microsoft | June 2012 - June 2013
+* **Office 365 Technical Specialist** | Microsoft | November 2010 - June 2012
+* **Account Technology Strategist** | Microsoft | March 2004 - December 2010
+* **Account Manager, Telco and M&E Vertical** | Microsoft | July 2008 - June 2009
+* **Exchange Technology Sales Professional** | Microsoft | March 2003 - February 2004
+* **Senior Consultant** | Microsoft | March 2000 - February 2003
+* **Consultant and Technical Project Manager** | IBM | October 1996 - March 2000
 
 ## Education
 
