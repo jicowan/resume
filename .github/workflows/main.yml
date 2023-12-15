@@ -1,7 +1,5 @@
 on:
   push:
-    # paths:
-    #   - '/**'
     branches: 
       - main
 
@@ -13,10 +11,10 @@ jobs:
     steps:
     - uses: actions/checkout@v1
     - uses: mkrakowitzer/actions-makepdfs@master
-      if: github.ref == 'refs/heads/master'
+      # if: github.ref == 'refs/heads/master'
       with:
-        markdown_dir: /
-        output_dir: pdfs
+        markdown_dir: ''
+        output_dir: 'pdfs'
     # - uses: actions/upload-artifact@v1
     #   with:
     #     name: platform-architecture-docs
