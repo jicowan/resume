@@ -1,5 +1,5 @@
 # Jeremy Cowan
-[📧 jicowan@proton.me](mailto:jicowan@proton.me) | [🔗 LinkedIn](https://www.linkedin.com/in/jicowan) | [👾 GitHub](https://github.com/jicowan) | [📝 Medium](https://jicowan.medium.com)
+[📧 jicowan@proton.me](mailto:jicowan@proton.me) | [🔗 LinkedIn](https://www.linkedin.com/in/jicowan) | [👾 GitHub](https://github.com/jicowan) | [📝 Medium](https://medium.com/@jicowan)
 
 ## Summary
 I’m a **technology professional** based in Chicago, Illinois with **25+ years of experience**. For the last 6 years my focus area has been Kubernetes and the cloud-native ecosystem with an emphasis on cloud-native security and networking. I am passionate about working with and learning from customers and creating solutions to complex problems.
@@ -12,7 +12,7 @@ Cloud Computing | Cloud Native | Container Orchestration (Kubernetes) | Observab
 
 ### **Senior Manager, Developer Relations, Amazon EKS**
 
-***AWS**, Chicago, Illinois – (Dec 2012 - Present)*
+***AWS** (Dec 2012 - Present)*
 
 I currently manage a global developer advocacy team for Amazon Elastic Kubernetes Service (EKS). The team interfaces with developers across multiple channels to collect feedback about their experiences while using EKS. They use this feedback, along with their own experience as practitioners, to represent “the voice of the customer” during feature ideation and prioritization. The team educates developers about the service by creating a variety of content that reduces friction, improves customer outcomes, and increases customer satisfaction. The team also participates in upstream, open-source communities in order to sustain the health of those communities and represent AWS and its customers’ interests. As manager, I set the vision for the team and oversee its activities, verifying that their content is bar-raising and their feedback is actionable.
 
@@ -30,7 +30,7 @@ I currently manage a global developer advocacy team for Amazon Elastic Kubernete
 
 ### Principal Developer Advocate, Amazon EKS
 
-***AWS**, Chicago, Illinois – (June 2021 - December 2021)*
+***AWS** (June 2021 - December 2021)*
 
 I was responsible creating different types of content, interfacing with developers, feature ideation and prioritization, bug bashes, and annual/mid-year planning sessions. I worked across teams on a variety of different initiatives such as feature launches, workshops, product documentation, training, and internal enablement. I served at mentor to other advocates on the team and implemented a program to up-level the field’s knowledge of Kubernetes in order to help the team scale. I represented AWS at conferences, briefed industry analysts about our product roadmap and strategy, and led customer briefings.
 
@@ -45,7 +45,7 @@ I was responsible creating different types of content, interfacing with develope
 
 ### Specialist Solutions Architect, Application Modernization
 
-***AWS**, Chicago, Illinois – (April 2018 - June 2021)*
+***AWS** (April 2018 - June 2021)*
 
 As a Specialist Solution Architect, I was responsible for educating AWS's largest and most strategic customers [the Fortune 100] about the different services AWS has for running containerized workloads, conducting architectural design reviews, developing migration plans, and building reference implementations and prototypes to address limitations in our services. 
 
@@ -60,41 +60,20 @@ As a Specialist Solution Architect, I was responsible for educating AWS's larges
 
 ### Senior Solutions Specialist
 
-***AWS** Chicago, Illinois (March 2015 - April 2018)*
+***AWS** (March 2015 - April 2018)*
 
 As the first Solution Architect hired in Illinois, I was responsible for covering all of the northern mid-West territory for AWS. As AWS grew, I shifted to cover the largest enterprise accounts in the region by revenue. My primary job was to educate customers about cloud computing and convince them that it was safe, trustworthy, and reliable. Oftentimes, this involved creating PoCs, reference architectures, and conducting well-architected reviews, product overviews, and deep-dives.
 
-### Senior Systems Engineer, vCloud Air
+## Additional Experience
 
-***VMware** Chicago, Illinois (Jun 2013 - Mar 2015)*
-
-### Cloud Evangelist
-
-***Microsoft** Chicago, Illinois (June 2012 - June 2013)*
-
-### Office 365 Technical Specialist
-
-***Microsoft** Chicago, Illinois (Nov 2010 - Jun 2012)*
-
-### Account Technology Strategist
-
-***Microsoft** Chicago, Illinois (Mar 2004 - Dec 2010)*
-
-### Account Manager, Telco and M&E Vertical
-
-***Microsoft** Chicago, Illinois (Jul 2008 - Jun 2009)*
-
-### Exchange Technology Sales Professional
-
-***Microsoft** Chicago, Illinois (Mar 2003 - Feb 2004)*
-
-### Senior Consultant
-
-***Microsoft** Chicago, Illinois (Mar 2000 - Feb 2003)*
-
-### Consultant and Technical Project Manager
-
-***IBM** Chicago, Illinois (Oct 1996 - Mar 2000)*
+* ***Senior Systems Engineer, vCloud Air** VMware (Jun 2013 - Mar 2015)*
+* ***Cloud Evangelist** Microsoft (June 2012 - June 2013)*
+* ***Office 365 Technical Specialist** Microsoft (Nov 2010 - Jun 2012)*
+* ***Account Technology Strategist** Microsoft (Mar 2004 - Dec 2010)*
+* ***Account Manager, Telco and M&E Vertical** Microsoft (Jul 2008 - Jun 2009)*
+* ***Exchange Technology Sales Professional** Microsoft (Mar 2003 - Feb 2004)*
+* ***Senior Consultant** Microsoft (Mar 2000 - Feb 2003)*
+* ***Consultant and Technical Project Manager** IBM (Oct 1996 - Mar 2000)*
 
 ## Education
 
