@@ -1,18 +1,21 @@
-name: Create PFD
-permissions:
-  issues: write
 on:
   push:
-    branches: 
-    - main
+    paths:
+      - '/**'
+
+name: CreatePDFs
+
 jobs:
-  create-pdf:
+  makepdfs:
     runs-on: ubuntu-latest
     steps:
-    - uses: mkrakowitzer/actions-makepdfs@v1.3
+    - uses: actions/checkout@v1
+    - uses: mkrakowitzer/actions-makepdfs@master
+      if: github.ref == 'refs/heads/master'
       with:
-    # Location of markdown files in github repository
         markdown_dir: /
-    # Location to output PDF files to
-        output_dir: /
-          
+        output_dir: pdfs
+    # - uses: actions/upload-artifact@v1
+    #   with:
+    #     name: platform-architecture-docs
+    #     path: tmp
