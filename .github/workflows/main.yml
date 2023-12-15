@@ -1,7 +1,9 @@
 on:
   push:
-    paths:
-      - '/**'
+    # paths:
+    #   - '/**'
+    branches: 
+      - main
 
 name: CreatePDFs
 
