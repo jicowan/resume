@@ -2,7 +2,7 @@
 [📧 jicowan@proton.me](mailto:jicowan@proton.me) | [🔗 LinkedIn](https://www.linkedin.com/in/jicowan) | [👾 GitHub](https://github.com/jicowan) | [📝 Medium](https://medium.com/@jicowan)
 
 ## Summary
-I’m a **technology professional** based in Chicago, Illinois with **25+ years of experience**. For the last 6 years my focus area has been Kubernetes and the cloud-native ecosystem with an emphasis on cloud-native security and networking. I am passionate about working with and learning from customers and creating solutions to complex problems.
+I’m a **technology professional** based in Chicago, Illinois with **25+ years of experience**. For the last 6 years my focus area has been Kubernetes and the cloud-native ecosystem with an emphasis on cloud-native security and networking. I am passionate about working with and learning from customers, creating solutions to complex problems, and mentoring.
 
 ## Skills
 
