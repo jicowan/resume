@@ -77,7 +77,7 @@ As the first Solution Architect hired in Illinois, I was responsible for coverin
 
 ## Education
 
-### University of Wisconsin-Madison 
+### University of Wisconsin-Madison
 
 *Bachelor of Arts, Philosophy (1989 - 1993)*
 
