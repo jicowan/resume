@@ -1,4 +1,4 @@
-            - name: Create PDF
+- name: Create PDF
   # You may pin to the exact commit or the version.
   # uses: mkrakowitzer/actions-makepdfs@07f1b3912a5dbcd72fe0feed3a3047a17c976d5e
   uses: mkrakowitzer/actions-makepdfs@v1.3
