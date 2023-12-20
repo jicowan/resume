@@ -1,5 +1,5 @@
 # Jeremy Cowan
-[📧 jicowan@proton.me](mailto:jicowan@proton.me) | [🔗 LinkedIn](https://www.linkedin.com/in/jicowan) | [👾 GitHub](https://github.com/jicowan) | [📝 Medium](https://medium.com/@jicowan)
+[jicowan@proton.me](mailto:jicowan@proton.me) | [LinkedIn](https://www.linkedin.com/in/jicowan) | [GitHub](https://github.com/jicowan) | [Medium](https://medium.com/@jicowan)
 
 ## Summary
 I’m a **technology professional** based in Chicago, Illinois with **25+ years of experience**. For the last 6 years my focus area has been Kubernetes and the cloud-native ecosystem with an emphasis on cloud-native security and networking. I am passionate about working with and learning from customers, creating solutions to complex problems, and mentoring.
@@ -12,7 +12,7 @@ Cloud Computing | Cloud Native | Container Orchestration (Kubernetes) | Observab
 
 ### **Senior Manager, Developer Relations, Amazon EKS**
 
-***AWS** (Dec 2012 - Present)*
+***AWS** (Dec 2021 - Present)*
 
 I currently manage a global developer advocacy team for Amazon Elastic Kubernetes Service (EKS). The team interfaces with developers across multiple channels to collect feedback about their experiences while using EKS. They use this feedback, along with their own experience as practitioners, to represent “the voice of the customer” during feature ideation and prioritization. The team educates developers about the service by creating a variety of content that reduces friction, improves customer outcomes, and increases customer satisfaction. The team also participates in upstream, open-source communities in order to sustain the health of those communities and represent AWS and its customers’ interests. As manager, I set the vision for the team and oversee its activities, verifying that their content is bar-raising and their feedback is actionable.
 
