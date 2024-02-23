@@ -4,29 +4,36 @@
 ## Summary
 I’m a **technology professional** based in Chicago, Illinois with **25+ years of experience**. For the last 6 years my focus area has been Kubernetes and the cloud-native ecosystem with an emphasis on cloud-native security and networking. I am passionate about working with and learning from customers, creating solutions to complex problems, and mentoring.
 
-## Skills 
+## Skills
 
-Cloud Computing | Cloud Native | Container Orchestration (Kubernetes) | Observability | Container Networking and Security | GitOps | Python | Golang
+Cloud Computing | Cloud Native | Generative AI | Container Orchestration (Kubernetes) | Observability | Container Networking and Security | GitOps | Python | Golang
 
 ## Experience
 
+### **Principal Solutions Architect, Technical Enablement for Generative AI**
+
+***AWS** (Jan 2024 - Present)*
+
+I am responsible for creating learning paths and content (presentations, workshops, etc) about Generative AI for technical roles across AWS. The content covers a wide range of topics including model selection and evaluation, common use cases, and AI services from AWS such as Bedrock, SageMaker Jumpstart, and Amazon Q. My primary objective is to increase AI fluency and the field's technical accumen. 
+
 ### **Senior Manager, Developer Relations, Amazon EKS**
 
-***AWS** (Dec 2021 - Present)*
+***AWS** (Dec 2021 - Dec 2023)*
 
-I currently manage a global developer advocacy team for Amazon Elastic Kubernetes Service (EKS). The team interfaces with developers across multiple channels to collect feedback about their experiences while using EKS. They use this feedback, along with their own experience as practitioners, to represent “the voice of the customer” during feature ideation and prioritization. The team educates developers about the service by creating a variety of content that reduces friction, improves customer outcomes, and increases customer satisfaction. The team also participates in upstream, open-source communities in order to sustain the health of those communities and represent AWS and its customers’ interests. As manager, I set the vision for the team and oversee its activities, verifying that their content is bar-raising and their feedback is actionable.
+I managed a global developer advocacy team for Amazon Elastic Kubernetes Service (EKS). The team interfaced with developers across multiple channels to collect feedback about their experiences while using EKS. They used this feedback, along with their own experience as practitioners, to represent “the voice of the customer” during feature ideation and prioritization sessions. The team educated developers about EKS by creating a variety of content that reduced friction, improved customer outcomes, and increased customer satisfaction. The team also participated in upstream, open-source communities in order to sustain the health of those communities and represent AWS and its customers’ interests. As manager, I set the vision for the team and oversee its activities, verifying that our content is bar-raising and our feedback is actionable.
 
 - Created and implemented a grassroots marketing campaign that grew subscribers to [Containers from the Couch](https://www.youtube.com/containersfromthecouch), a YouTube channel devoted to running containers on AWS, from 6,200 to 23,200 in 2 years and received 816K views during that timeframe. The campaign revolved around a content plan that focused on educating the community about new features, partner solutions, and common use cases.
 - Led an expansion of the [EKS Best Practices Guide](https://aws.github.io/aws-eks-best-practices/) to include all of the pillars of the [well-architected framework](https://aws.amazon.com/architecture/well-architected). The guide provides recommendations for day 2 operations for Kubernetes and receives approximately 1M views per year.
 - Launched an [EKS newsletter](https://eks.news) summarizing new service features, blogs, videos, and news from the open souce community. Since launching in February 2022 newsletter has gained 3,500 subscribers and the archive has been viewed over 60K times.
 - Partnered with the [AWS Signer](https://docs.aws.amazon.com/signer/latest/developerguide/Welcome.html) team to build a Kubernetes [controller](https://github.com/aws-samples/k8s-notary-admission) for validating image signatures created by AWS Signer. Collaborated with open source engineers to add support for AWS Signer to [Ratify](https://ratify.dev/) and [Notation](https://notaryproject.dev/). Worked with [Nirmata](https://nirmata.com/) to add support for AWS Signer to [Kyverno](https://github.com/nirmata/kyverno-notation-aws). As a result of this work, the AWS Signer team was able to launch support for image signing with multiple options for validating signatures.
-- Chose the themes, planned the agenda, and bar-raised the content for [AWS Container Day](https://aws.amazon.com/eks/container_day/), a (virtual) day-zero event held at Kubecon NA and EU in 2021. Both events peaked 10K+ attendees and received an overall CSAT score of 4.4 out of 5.0.
+- Chose the themes, planned the agenda, and bar-raised the content for [AWS Container Day](https://aws.amazon.com/eks/container_day/), a (virtual) day-zero event held at Kubecon NA and EU in 2021 during the pandemic. Both events peaked 10K+ attendees and received an overall CSAT score of 4.4 out of 5.0.
 - Led an effort to revamp the [EKS Workshop](https://eksworkshop.com), the flagship workshop for learning about Amazon EKS. Created a style guide along with a governance model for managing the project that divvied responsibility for planning and authoring new content among working group chairs. Developed test automation framework for testing PRs which reduced bugs by 50%+ while increasing our feature/content velocity by 20%. Recently added content for the [developer persona](https://developers.eksworkshop.com) to the workshop that aligns with the [12 factor app pattern](https://12factor.net/).
 - Implemented a program to mine and aggregate data across a variety of online communities and used it measure community growth, customer sentiment, trending conversations, and our responsiveness to issues/bugs reported by the community. This data was used by multiple teams when reporting to upper management.
 - Wrote onboarding plans for new employees. Provided coaching and mentoring for direct reports on an ongoing basis. Co-developed growth plans for each employees outlining their career objectives, major accomplishments and their alignment with the [Amazon leadership principles](https://www.amazon.jobs/content/en/our-workplace/leadership-principles), and gaps in experience. When employees were ready for a promotion, I wrote their promotion documents and presented arguments for their promotion.
 - Created operational plans (OPs) that focused on short and long terms team goals. These plans included specific details on emerging trends such as GenAI, GitOps, etc headcount needs, key metrics, and business drivers. The plans were underpinned by data collected from the community through surveys, social media, or in-person during customer meetings.
 - Collaborated with key stakeholders in Product, Engineering, and	Marketing to develop a content strategy. Streamlined the review processs to ensure content consistently met Product’s expectations, delivered on time, and coincided with official messaging.
 - Worked with Product Managers to identify and prioritize product/features and enhancements based on our customer’s feedback.
+- Oversaw the creation of feature narratives based on customer feedback.
 
 ### Principal Developer Advocate, Amazon EKS
 
@@ -38,7 +45,7 @@ I was responsible creating different types of content, interfacing with develope
 - Was a founding member of the [AWS Collective](https://stackoverflow.com/collectives/aws) on Stackoverflow earning 400+ reputation points within the first 6 months which was among the top 5% for reputational change. Answered user’s questions posted to the #EKS channel in the [Kubernetes workspace](https://kubernetes.slack.com/messages/CNXNB0ZTN) and [Reddit](https://www.reddit.com/user/NoReserve5094).
 - Incubated new features prior to launch. Prepared friction logs describing areas of friction that could impede feature adoption, and recommeded improvements for subsequent versions.
 - Created a [mechanism](https://github.com/aws-samples/kubernetes-log4j-cve-2021-44228-node-agent) for deploying a patch for the log4shell exploit so that customers could quickly patch their Kubernetes environments.
-- Working backward from customer requirements, I wrote several feature narratives (PRFAQs) describing who the feature was for, the potential business opportunity, the feature and the problems it addresses, the ideal customer experience, and a list of success criteria.
+- Working backward from customer requirements, I wrote several feature narratives (PRFAQs) describing who the feature was for, the potential business opportunity, the feature and the problems it addresses, the ideal customer experience, and a list success criteria.
 - Co-authored the Kubernetes documentation on hard and soft [mutli-tenancy](https://kubernetes.io/docs/concepts/security/multi-tenancy/).
 - Mentored junior members of my team, interviewed job applicants, and took part in annual calibration meetings.
 - Worked with Product to created a content shopping list that advanced our business goals, evalutated potential authors, and bar raised content before it was published to the AWS Containers Blog.
