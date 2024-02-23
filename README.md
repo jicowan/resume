@@ -1,20 +1,26 @@
 # Jeremy Cowan
-[📧 jicowan@proton.me](mailto:jicowan@proton.me) | [🔗 LinkedIn](https://www.linkedin.com/in/jicowan) | [👾 GitHub](https://github.com/jicowan) | [📝 Medium](https://medium.com/@jicowan)
+[jicowan@proton.me](mailto:jicowan@proton.me) | [LinkedIn](https://www.linkedin.com/in/jicowan) | [GitHub](https://github.com/jicowan) | [Medium](https://medium.com/@jicowan)
 
 ## Summary
 I’m a **technology professional** based in Chicago, Illinois with **25+ years of experience**. For the last 6 years my focus area has been Kubernetes and the cloud-native ecosystem with an emphasis on cloud-native security and networking. I am passionate about working with and learning from customers, creating solutions to complex problems, and mentoring.
 
 ## Skills
 
-Cloud Computing | Cloud Native | Container Orchestration (Kubernetes) | Observability | Container Networking and Security | GitOps | Python | Golang
+Cloud Computing | Cloud Native | Generative AI | Container Orchestration (Kubernetes) | Observability | Container Networking and Security | GitOps | Python | Golang
 
 ## Experience
 
+### **Principal Solutions Architect, Technical Enablement for Generative AI**
+
+***AWS** (Jan 2024 - Present)*
+
+I am responsible for creating learning paths and content (presentations, workshops, etc) about Generative AI for technical roles across AWS. The content covers a wide range of topics including model selection and evaluation, common use cases, and AI services from AWS such as Bedrock, SageMaker Jumpstart, and Amazon Q. My primary objective is to increase AI fluency and the field's technical accumen. 
+
 ### **Senior Manager, Developer Relations, Amazon EKS**
 
-***AWS** (Dec 2021 - Present)*
+***AWS** (Dec 2021 - Dec 2023)*
 
-I currently manage a global developer advocacy team for Amazon Elastic Kubernetes Service (EKS). The team interfaces with developers across multiple channels to collect feedback about their experiences while using EKS. They use this feedback, along with their own experience as practitioners, to represent “the voice of the customer” during feature ideation and prioritization sessions. The team educates developers about the service by creating a variety of content that reduces friction, improves customer outcomes, and increases customer satisfaction. The team also participates in upstream, open-source communities in order to sustain the health of those communities and represent AWS and its customers’ interests. As manager, I set the vision for the team and oversee its activities, verifying that their content is bar-raising and their feedback is actionable.
+I managed a global developer advocacy team for Amazon Elastic Kubernetes Service (EKS). The team interfaced with developers across multiple channels to collect feedback about their experiences while using EKS. They used this feedback, along with their own experience as practitioners, to represent “the voice of the customer” during feature ideation and prioritization sessions. The team educated developers about EKS by creating a variety of content that reduced friction, improved customer outcomes, and increased customer satisfaction. The team also participated in upstream, open-source communities in order to sustain the health of those communities and represent AWS and its customers’ interests. As manager, I set the vision for the team and oversee its activities, verifying that our content is bar-raising and our feedback is actionable.
 
 - Created and implemented a grassroots marketing campaign that grew subscribers to [Containers from the Couch](https://www.youtube.com/containersfromthecouch), a YouTube channel devoted to running containers on AWS, from 6,200 to 23,200 in 2 years and received 816K views during that timeframe. The campaign revolved around a content plan that focused on educating the community about new features, partner solutions, and common use cases.
 - Led an expansion of the [EKS Best Practices Guide](https://aws.github.io/aws-eks-best-practices/) to include all of the pillars of the [well-architected framework](https://aws.amazon.com/architecture/well-architected). The guide provides recommendations for day 2 operations for Kubernetes and receives approximately 1M views per year.
