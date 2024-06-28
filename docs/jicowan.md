@@ -1,4 +1,4 @@
-# Jeremy Cowan
+# Jeremy Cowan 
 [jicowan@proton.me](mailto:jicowan@proton.me) | [LinkedIn](https://www.linkedin.com/in/jicowan) | [GitHub](https://github.com/jicowan) | [Medium](https://medium.com/@jicowan)
 
 ## Skills
